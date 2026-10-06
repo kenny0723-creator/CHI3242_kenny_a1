@@ -1,0 +1,4 @@
+qhchina==0.2.7
+jieba==0.42.1
+opencc-python-reimplemented==0.1.7
+pandas==3.0.6
